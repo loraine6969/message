@@ -5,9 +5,9 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Yay, see you on the 18th!";
+  question.innerHTML = "yay! i love youuuu <3";
   gif.src =
-    "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
+    "https://tenor.com/view/peach-and-goma-peach-goma-peach-cat-goma-goma-and-peach-gif-258219253375303464";
 });
 
 noBtn.addEventListener("mouseover", () => {
